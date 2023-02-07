@@ -4,7 +4,7 @@ This project focuses on the ```eBird Dataset``` which is the world's largest cit
 
 ## Normalization ##
 
-Firstly, the **training** and **test** dataset are normalized using the ``min-max log normalization``` Before trying the min-max log normalization, log normalization and  z-score normalization was used too. However, min-max log normalization provides us a good result.
+Firstly, the **training** and **test** dataset are normalized using the ```min-max log normalization``` Before trying the min-max log normalization, log normalization and  z-score normalization was used too. However, min-max log normalization provides us a good result.
 
 ## Distance Measure ##
 
